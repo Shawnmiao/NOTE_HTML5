@@ -1,6 +1,4 @@
-> 笔记来源：[尚硅谷 Web 前端 HTML5&CSS3 初学者零基础入门全套完整版](https://www.bilibili.com/video/BV1XJ411X7Ud)
 
-[toc]
 
 # 前端简介
 
