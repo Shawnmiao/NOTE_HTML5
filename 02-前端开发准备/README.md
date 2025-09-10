@@ -8,7 +8,7 @@
   Django 是一个使用 Python 编程语言开发的、免费且开源的 Web 应用框架。它遵循 "DRY（Don't Repeat Yourself）" 原则，旨在简化创建功能丰富的、高效率的 Web 网站。Django 提供了模型-视图-控制器（MVC）架构的实现，以及ORM（对象关系映射）系统、内置了 admin 界面、URL 路由、模板引擎、表单处理和强大的安全特性。
 ###1.1创建项目
 打开PyCharm，新建Django项目（PyCharm社区版无法快速创建Django项目），设置新项目的路径和项目名，然后点击创建即可
-![Uploading image.png…]()
+![Uploading image.png…](https://i-blog.csdnimg.cn/blog_migrate/e1c744dd4787d545e82e7d41addacbe0.png)
 
 
 
