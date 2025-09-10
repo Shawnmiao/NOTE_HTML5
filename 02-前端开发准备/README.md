@@ -14,7 +14,13 @@ PyCharm运行manage.py启动项目，默认启动端口为8000，直接点击蓝
 <img width="2018" height="541" alt="image" src="https://github.com/user-attachments/assets/96fc0e84-6334-4eac-8caf-4d29d82b7b0a" />
 
 <img width="2557" height="1320" alt="image" src="https://github.com/user-attachments/assets/176fc377-6887-4580-b424-c78d6e1bcc4c" />
-
+### 1.3新建应用模块
+在PyCharm的终端中执行命令，创建新的应用模块：
+python manage.py startapp app名
+<img width="643" height="429" alt="image" src="https://github.com/user-attachments/assets/70ed1687-9717-457d-83bd-6e3f69bfe1c4" />
+修改setting.py文件，找到INSTALLED_APPS（约31行处），将新建的应用模块注册到Django中
+<img width="703" height="330" alt="image" src="https://github.com/user-attachments/assets/f64a5074-0ffb-4cd6-b04c-f3fa6fecade2" />
+### 1.4写一个Hello World网页
 
 ## 2. 文本编辑器的选择
 
