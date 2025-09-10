@@ -4,33 +4,13 @@
 
 # 前端开发准备
 
-## 1. 离线文档的下载
+## 1. Django框架
+  Django 是一个使用 Python 编程语言开发的、免费且开源的 Web 应用框架。它遵循 "DRY（Don't Repeat Yourself）" 原则，旨在简化创建功能丰富的、高效率的 Web 网站。Django 提供了模型-视图-控制器（MVC）架构的实现，以及ORM（对象关系映射）系统、内置了 admin 界面、URL 路由、模板引擎、表单处理和强大的安全特性。
+###1.1创建项目
+打开PyCharm，新建Django项目（PyCharm社区版无法快速创建Django项目），设置新项目的路径和项目名，然后点击创建即可
+![Uploading image.png…]()
 
-离线文档：[Zeal - Offline Documentation Browser](https://zealdocs.org/)
 
-如果安装报错，需安装：[Visual C++ Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=48145)
-
-下载安装完成之后，会在“开始”屏幕或者桌面生成快捷键，双击打开
-
-在第一次使用时，并不是直接就有 HTML 文档的，还需要 Download。
-
-这里点击工具栏的 Tools-Assets 或者下方的“Install and update docsets”都是 OK 的
-
-![image-20210514003839690](https://img-blog.csdnimg.cn/img_convert/c0211f071ac8028b268b5dca6eeebf3d.png)
-
-按照步骤安装即可
-
-![image-20210514004521785](https://img-blog.csdnimg.cn/img_convert/34e0a56db7791aacbb6b877ab622d146.png)
-
-由于服务器在国外，网络较慢，耐心等待 download 完毕
-
-在 Installed 中出现 HTML，同时左侧导航栏有了 HTML，至此安装完毕
-
-![image-20210514005151906](https://img-blog.csdnimg.cn/img_convert/9fa88c27141c249780195a9534636822.png)
-
-离线使用，在左侧导航栏可以查询 HTML 标签和属性，右侧显示元素的详细信息
-
-![image-20210514005355719](https://img-blog.csdnimg.cn/img_convert/cf12a2969e867701632eef65880dd797.png)
 
 ## 2. 文本编辑器的选择
 
