@@ -13,6 +13,7 @@
 PyCharm运行manage.py启动项目，默认启动端口为8000，直接点击蓝的 http://127.0.0.1:8000/  即可跳转到浏览器访问Django的主页
 <img width="2018" height="541" alt="image" src="https://github.com/user-attachments/assets/96fc0e84-6334-4eac-8caf-4d29d82b7b0a" />
 
+<img width="2557" height="1320" alt="image" src="https://github.com/user-attachments/assets/176fc377-6887-4580-b424-c78d6e1bcc4c" />
 
 
 ## 2. 文本编辑器的选择
